@@ -11,7 +11,7 @@ A modern, elegant, and fully responsive portfolio website built with pure HTML a
 
 ## ✨ Features
 
-### 🎯 Core Features
+### Core Features
 - **Zero JavaScript**: Pure CSS animations and interactions
 - **Fully Responsive**: Works seamlessly on desktop, tablet, and mobile devices
 - **Modern Design**: Glass morphism, gradients, and smooth animations
