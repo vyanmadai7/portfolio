@@ -247,7 +247,7 @@ portfolio/
 
 ---
 
-## 🔧 Advanced Customization
+##  Advanced Customization
 
 ### Adding More Sections
 
