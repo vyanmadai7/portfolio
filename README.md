@@ -76,7 +76,7 @@ cd portfolio
 
 ### 1. **Personal Information**
 
-Update the following in `portfolio.html`:
+Update the following in `index.html`:
 
 ```html
 <!-- Change your name -->
@@ -164,16 +164,16 @@ Update your statistics:
 ```html
 <div class="stats">
     <div class="stat-item">
-        <div class="stat-number">5+</div>
+        <div class="stat-number">1+</div>
         <div class="stat-label">Years Experience</div>
     </div>
     <div class="stat-item">
-        <div class="stat-number">100+</div>
+        <div class="stat-number">27+</div>
         <div class="stat-label">Projects Done</div>
     </div>
     <div class="stat-item">
-        <div class="stat-number">50+</div>
-        <div class="stat-label">Happy Clients</div>
+        <div class="stat-number">0</div>
+        <div class="stat-label">Clients</div>
     </div>
 </div>
 ```
@@ -220,16 +220,10 @@ Update navigation to match your sections:
 ```
 portfolio/
 │
-├── portfolio.html          # Main HTML file
+├── index.html          # Main HTML file
 ├── home.jpg               # Profile image (add your own)
 ├── README.md              # Documentation (this file)
-│
-└── assets/                # Optional: organize assets
-    ├── images/
-    │   └── home.jpg
-    ├── css/
-    │   └── style.css      # Optional: separate CSS
-    └── fonts/             # Optional: local fonts
+│__style.css
 ```
 
 ---
@@ -371,13 +365,6 @@ Use CSS `:target` or checkbox hack for theme switching:
    - Select main branch
    - Save
 
-Your site will be live at: `https://yourusername.github.io/repository-name`
-
-### Netlify
-
-1. **Drag and drop** your folder to [Netlify Drop](https://app.netlify.com/drop)
-2. **Or connect** your GitHub repository
-3. **Deploy** automatically
 
 ### Vercel
 
@@ -429,7 +416,7 @@ Your site will be live at: `https://yourusername.github.io/repository-name`
 ## 🐛 Troubleshooting
 
 ### Issue: Profile image not showing
-**Solution**: Ensure `home.jpg` is in the same directory as `portfolio.html`
+**Solution**: Ensure `home.jpg` is in the same directory as `index.html`
 
 ### Issue: Fonts not loading
 **Solution**: Check internet connection (Google Fonts requires internet)
@@ -484,23 +471,7 @@ MIT License
 
 Copyright (c) 2025 Vyan
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Permission is hereby granted, free of charge.
 ```
 
 ---
