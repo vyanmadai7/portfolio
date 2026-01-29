@@ -1,4 +1,4 @@
-# 🎨 Professional Portfolio Websiteb front-end
+#  Professional Portfolio Websiteb front-end
 
 A modern, elegant, and fully responsive portfolio website built with pure HTML and CSS - **no JavaScript required**. Features smooth animations, gradient effects, and a professional design that showcases your skills and projects.
 
