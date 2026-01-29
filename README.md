@@ -9,7 +9,7 @@ A modern, elegant, and fully responsive portfolio website built with pure HTML a
 
 ---
 
-## ✨ Features
+##  Features
 
 ### Core Features
 - **Zero JavaScript**: Pure CSS animations and interactions
