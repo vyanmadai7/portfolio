@@ -29,7 +29,7 @@ A modern, elegant, and fully responsive portfolio website built with pure HTML a
 - **Stats Section**: Display your achievements and metrics
 - **Dual CTA Buttons**: Primary and secondary call-to-action buttons
 
-### 📱 Responsive Features
+### Responsive Features
 - **Mobile-First Design**: Optimized for all screen sizes
 - **Hamburger Menu**: Mobile navigation (CSS-only toggle ready)
 - **Flexible Grid**: Adapts content layout based on screen size
