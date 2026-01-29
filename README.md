@@ -37,7 +37,7 @@ A modern, elegant, and fully responsive portfolio website built with pure HTML a
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Prerequisites
 - A modern web browser (Chrome, Firefox, Safari, Edge)
