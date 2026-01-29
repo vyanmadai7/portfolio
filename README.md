@@ -413,7 +413,7 @@ Use CSS `:target` or checkbox hack for theme switching:
 
 ---
 
-## 🐛 Troubleshooting
+##  Troubleshooting
 
 ### Issue: Profile image not showing
 **Solution**: Ensure `home.jpg` is in the same directory as `index.html`
