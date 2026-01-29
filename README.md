@@ -314,7 +314,7 @@ Use CSS `:target` or checkbox hack for theme switching:
 
 ---
 
-## 🎨 Animation Details
+##  Animation Details
 
 ### Typing Effect
 - **Duration**: 20 seconds per cycle
