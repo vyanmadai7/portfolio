@@ -1,4 +1,4 @@
-# 🎨 Professional Portfolio Website
+# 🎨 Professional Portfolio Websiteb front-end
 
 A modern, elegant, and fully responsive portfolio website built with pure HTML and CSS - **no JavaScript required**. Features smooth animations, gradient effects, and a professional design that showcases your skills and projects beautifully.
 
@@ -48,7 +48,7 @@ A modern, elegant, and fully responsive portfolio website built with pure HTML a
 
 1. **Clone or Download** the repository
 ```bash
-git clone https://github.com/yourusername/portfolio.git
+git clone https://github.com/vyanmadai7/portfolio.git
 cd portfolio
 ```
 
