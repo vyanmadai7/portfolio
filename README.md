@@ -1,6 +1,6 @@
 # 🎨 Professional Portfolio Websiteb front-end
 
-A modern, elegant, and fully responsive portfolio website built with pure HTML and CSS - **no JavaScript required**. Features smooth animations, gradient effects, and a professional design that showcases your skills and projects beautifully.
+A modern, elegant, and fully responsive portfolio website built with pure HTML and CSS - **no JavaScript required**. Features smooth animations, gradient effects, and a professional design that showcases your skills and projects.
 
 ![Portfolio Preview](https://img.shields.io/badge/Status-Ready-success)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
