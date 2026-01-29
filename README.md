@@ -232,11 +232,11 @@ portfolio/
 
 | Browser | Version | Support |
 |---------|---------|---------|
-| Chrome | 90+ | ✅ Full Support |
-| Firefox | 88+ | ✅ Full Support |
-| Safari | 14+ | ✅ Full Support |
-| Edge | 90+ | ✅ Full Support |
-| Opera | 76+ | ✅ Full Support |
+| Chrome | 90+ |  Full Support |
+| Firefox | 88+ | Full Support |
+| Safari | 14+ | Full Support |
+| Edge | 90+ |  Full Support |
+| Opera | 76+ |  Full Support |
 
 **Features Used:**
 - CSS Grid & Flexbox
