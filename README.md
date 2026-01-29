@@ -215,7 +215,7 @@ Update navigation to match your sections:
 
 ---
 
-## 📁 File Structure
+## File Structure
 
 ```
 portfolio/
