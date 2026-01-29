@@ -19,7 +19,7 @@ A modern, elegant, and fully responsive portfolio website built with pure HTML a
 - **Fast Loading**: Minimal dependencies, optimized performance
 - **SEO Optimized**: Proper meta tags and semantic HTML structure
 
-### 🎨 Design Elements
+###  Design Elements
 - **Animated Typing Effect**: Pure CSS typing animation with cursor blink
 - **Gradient Text**: Beautiful gradient effects on headings and logo
 - **Profile Image Animations**: Rotating border, pulse effect, and glow
