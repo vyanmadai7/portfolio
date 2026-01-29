@@ -72,7 +72,7 @@ cd portfolio
 
 ---
 
-## 🎨 Customization Guide
+##  Customization Guide
 
 ### 1. **Personal Information**
 
