@@ -354,7 +354,7 @@ Use CSS `:target` or checkbox hack for theme switching:
 
 ---
 
-## 🚀 Deployment
+##  Deployment
 
 ### GitHub Pages
 
