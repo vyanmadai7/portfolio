@@ -228,7 +228,7 @@ portfolio/
 
 ---
 
-## 🎯 Browser Support
+##  Browser Support
 
 | Browser | Version | Support |
 |---------|---------|---------|
