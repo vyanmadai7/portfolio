@@ -58,14 +58,12 @@ cd portfolio
    - Format: JPG, PNG, or WebP
 
 3. **Open the File**
-   - Double-click `portfolio.html` to open in your browser
+   - Double-click `index.html` to open in your browser
    - Or use a local server:
    ```bash
    # Using Python
    python -m http.server 8000
    
-   # Using Node.js
-   npx serve
    ```
 
 4. **View Your Portfolio**
