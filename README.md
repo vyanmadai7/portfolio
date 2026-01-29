@@ -478,13 +478,13 @@ Permission is hereby granted, free of charge.
 
 ## 📧 Contact
 
-**Vyan** - [Your Email](mailto:thevyanmadai@gmail.com)
+**Vyan** - [thevyanmadai@gmail.com](mailto:your.email@example.com)
 
-**GitHub**: [@yourusername](https://github.com/vyanmadai7)
+**GitHub**: [@vyanmadai7](https://github.com/yourusername)
 
-**LinkedIn**: [Your Name](https://linkedin.com/in/VyanMadai)
+**LinkedIn**: [Vyan Madai](https://linkedin.com/in/yourprofile)
 
-**X**: [Your Name](https://x.com/vyanmadai)
+**X**: [@vyanmadai](https://x.com/yourusername)
 
 ---
 
