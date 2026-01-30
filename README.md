@@ -333,7 +333,7 @@ Use CSS `:target` or checkbox hack for theme switching:
 
 ---
 
-## 📱 Responsive Breakpoints
+##  Responsive Breakpoints
 
 ```css
 /* Large Desktop: 1200px+ */
