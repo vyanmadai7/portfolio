@@ -435,7 +435,7 @@ Use CSS `:target` or checkbox hack for theme switching:
 
 ---
 
-## 📝 To-Do / Future Enhancements
+##  To-Do / Future Enhancements
 
 - [ ] Add About section with skills showcase
 - [ ] Create Projects/Portfolio gallery
