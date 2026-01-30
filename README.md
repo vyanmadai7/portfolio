@@ -450,7 +450,7 @@ Use CSS `:target` or checkbox hack for theme switching:
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Here's how you can help:
 
@@ -462,7 +462,7 @@ Contributions are welcome! Here's how you can help:
 
 ---
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License - see below for details:
 
@@ -476,7 +476,7 @@ Permission is hereby granted, free of charge.
 
 ---
 
-## 📧 Contact
+##  Contact
 
 **Vyan** - [thevyanmadai@gmail.com](mailto:your.email@example.com)
 
@@ -488,7 +488,7 @@ Permission is hereby granted, free of charge.
 
 ---
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - **Font Awesome** - For beautiful icons
 - **Google Fonts** - For professional typography
@@ -497,13 +497,13 @@ Permission is hereby granted, free of charge.
 
 ---
 
-## ⭐ Show Your Support
+##  Show Your Support
 
 If you found this portfolio template helpful, please consider:
-- ⭐ **Starring** the repository
-- 🍴 **Forking** for your own use
-- 📢 **Sharing** with others
-- 💬 **Providing feedback**
+-  **Starring** the repository
+-  **Forking** for your own use
+-  **Sharing** with others
+-  **Providing feedback**
 
 ---
 
@@ -511,7 +511,7 @@ If you found this portfolio template helpful, please consider:
 
 ### Made with ❤️ by Vyan
 
-**Happy Coding! 🚀**
+**Happy Coding! **
 
 [⬆ Back to Top](#-professional-portfolio-website)
 
