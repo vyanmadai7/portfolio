@@ -497,16 +497,6 @@ Permission is hereby granted, free of charge.
 
 ---
 
-##  Show Your Support
-
-If you found this portfolio template helpful, please consider:
--  **Starring** the repository
--  **Forking** for your own use
--  **Sharing** with others
--  **Providing feedback**
-
----
-
 <div align="center">
 
 ### Made with ❤️ by Vyan
